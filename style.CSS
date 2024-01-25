@@ -1,0 +1,29 @@
+/*body {
+    position: relative;
+    top: 15px;
+    left: 35%;
+}*/
+.h1{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.border{
+    border: 5px dotted rgb(161, 161, 228);
+    border-radius: 10%;
+  
+}
+.table{
+    position: relative;
+    top: 20px;
+    left: 1%;
+}
+.topics{
+    font-size: large;
+    font-weight: 300;
+}
+/*code does not work*/
+.naviatingbar{
+    color: blue;
+    text-decoration: none;
+}
+
